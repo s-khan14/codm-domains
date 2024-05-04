@@ -5,3 +5,5 @@
 ||codmwest.trafficmanager.net^
 ||tencent4.s.llnwi.net^
 ||qcloudcdn.com^
+||callofduty.com^
+||demonware.net^
