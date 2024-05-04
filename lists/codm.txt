@@ -7,3 +7,4 @@
 ||qcloudcdn.com^
 ||callofduty.com^
 ||demonware.net^
+||d103o8jcukv8ws.cloudfront.net^
