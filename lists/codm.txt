@@ -1,0 +1,7 @@
+||myqcloud.com^
+||activision.com^
+||codmwest.com^
+||tencent.com^
+||codmwest.trafficmanager.net^
+||tencent4.s.llnwi.net^
+||qcloudcdn.com^
